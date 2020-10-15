@@ -6,5 +6,4 @@ step 3: by default all the branches in the repo will be cloned and in the first 
 step 4: change from master branch to feature/dev branch 
 step 7: created a file in the feature/dev branch
 step 8: started updating the file 
-step 9: compare it feature/test and create pull request to it
-step 10 merge it into feature/test so that both the dev and test teams will be on the same page
+
