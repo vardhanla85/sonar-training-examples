@@ -1,0 +1,9 @@
+here i am updating the new file for the purpose of practice in this file i am updating all the steps i will be doing for this task
+
+step 1: i have created the feature/dev and feature/test braches in the git hub web page 
+step 2: i have cloned the repo to the local machine using the VS Studio  git hub plugin
+step 3: by default all the branches in the repo will be cloned and in the first place we will be having master branch as default
+step 4: change from master branch to feature/dev branch 
+step 7: created a file in the feature/dev branch
+step 8: started updating the file 
+step 9: 
